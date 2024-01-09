@@ -9,7 +9,7 @@ It's a basic calculator with essential mathematical operations like addition, su
 
 # The project simulation:
 <img src="https://github.com/msayed6789/Calculator_Embedded_Proj/blob/main/Photos/calculator_Ph.PNG" width=100%>
-[![Watch the video](https://github.com/msayed6789/System_Conversion_Embedded_Proj/blob/main/Photos/Conversion_System.PNG)(https://github.com/msayed6789/System_Conversion_Embedded_Proj/blob/main/Videos/System_Conversion.mp4)].
+[![Watch the video](https://github.com/msayed6789/Calculator_Embedded_Proj/blob/main/Photos/calculator_Ph.PNG)(https://github.com/msayed6789/Calculator_Embedded_Proj/blob/main/Videos/Calculator.mp4)].
 <br>
 <br>
 
